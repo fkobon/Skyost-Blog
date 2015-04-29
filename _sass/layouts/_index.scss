@@ -26,6 +26,10 @@
 		p a:hover {
 			@extend %link-hover;
 		}
+		
+		.post-link:hover {
+			color: #2980b9;
+		}
 	}
 	
 	.excerpt {
