@@ -47,7 +47,7 @@ if(icon != undefined) {
 	
 	new Elevator({
 		element: icon,
-		mainAudio: './music/elevator-music.mp3', // Music from http://www.bensound.com/
-		endAudio:  './music/ding.mp3'
+		mainAudio: '/music/elevator-music.mp3', // Music from http://www.bensound.com/
+		endAudio:  '/music/ding.mp3'
 	});
 }
