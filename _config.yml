@@ -1,0 +1,73 @@
+# SITE CONFIGURATION
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.skyost.eu" # the base hostname & protocol for your site
+
+# THEME-SPECIFIC CONFIGURATION
+theme:
+  # Meta
+  favicon: "http://blog.skyost.eu/favicon.ico"
+  title: "Blog de Skyost"
+  avatar:
+  gravatar: "9b0765ed2ff3b7fb478b0f0feaeb1f05" # Email MD5 hash
+  description: "Le blog d'un développeur" # used by search engines
+
+  # Header and footer text
+  header_text:
+  header_text_feature_image:
+  footer_text: >
+   Propulsé par <a href="http://jekyllrb.com">Jekyll</a> et <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>.
+
+  # Icons
+  website: "www.skyost.eu"
+  rss: true
+  email_address: # Full email address, e.g. "sam@example.com"
+  behance:
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
+  github: "Skyost"
+  google_plus:
+  instagram:
+  linkedin:  # Full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: "SkyostDev"
+  wordpress:
+  youtube: "UCEDvbsxvbxUbdDcxOl85xcA"
+
+  # Scripts
+  google_analytics: UA-47485074-7 # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname: skyost
+  katex: false # Enable if using math markup
+
+  # Localization strings
+  str_follow_on: "Suivre sur"
+  str_rss_follow: "Suivre le flux RSS"
+  str_email: "Email"
+  str_next: "Suivant"
+  str_prev: "Précédent"
+  str_continue_reading: "Continuer à lire"
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+
+# PAGINATION
+paginate: 5
+paginate_path: "page-:num"
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# OTHER THINGS
+gems:
+  - jemoji
+timezone: "Europe/Paris"
