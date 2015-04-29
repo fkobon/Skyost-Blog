@@ -15,7 +15,7 @@ theme:
   header_text:
   header_text_feature_image:
   footer_text: >
-   Propulsé par <a href="http://jekyllrb.com">Jekyll</a> et <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>.
+   Propulsé par <a href="http://jekyllrb.com">Jekyll</a>, <a href="https://rohanchandra.github.io/project/type/">Type Theme</a> et <a href="https://github.com/Skyost/skyost.github.io">Github Pages</a>.
 
   # Icons
   website: "www.skyost.eu"
