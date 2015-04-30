@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: ["amelioration", "notifications", "push", "chrome"]
-title: "Nouveau blog !"
+title: "Les notifications push sont là !"
 ---
 
 Salut !<br />
