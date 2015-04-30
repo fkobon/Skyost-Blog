@@ -54,6 +54,7 @@ theme:
   str_next: "Suivant"
   str_prev: "Précédent"
   str_continue_reading: "Continuer à lire"
+  str_not_supported: "Cette fonctionnalité n'est pas encore disponible sur votre navigateur."
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
