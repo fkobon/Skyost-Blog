@@ -5,7 +5,6 @@ title: "Les notifications push sont là !"
 ---
 
 Salut !<br />
-
 Je viens comme promis d'ajouter les notifications push au blog.
 
 Concrètement, ça marche grâce à un service qui s'appelle [OneSignal](https://onesignal.com) et qui me permet de vous envoyer des notifications à travers leur site.
