@@ -15,7 +15,7 @@ Donc pour vous, vous cliquez juste sur la petite cloche en haut à droite :
 Et vous acceptez ainsi de recevoir les messages que je vous enverrai (vous pouvez vous désabonner [ici](chrome://settings/contentExceptions#notifications)).<br />
 Ce service sera principalement utilisé pour vous notifier quand il y aura de nouveau articles.
 
-Voilàvoilà, que dire de plus ?
+Voilà voilà, que dire de plus ?
 
 En espérant vous voir nombreux ! :smirk:<br />
 -Skyost
