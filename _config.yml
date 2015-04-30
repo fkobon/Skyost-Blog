@@ -41,9 +41,11 @@ theme:
   youtube: "UCEDvbsxvbxUbdDcxOl85xcA"
 
   # Scripts
-  google_analytics: UA-47485074-7 # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname: skyost
+  google_analytics: "UA-47485074-7" # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname: "skyost"
   katex: false # Enable if using math markup
+  onesignalsdk_appid: "2a0a597e-ef82-11e4-a2b4-e3aef9fc25a9"
+  onesignalsdk_subdomain: "skyost-blog"
 
   # Localization strings
   str_follow_on: "Suivre sur"

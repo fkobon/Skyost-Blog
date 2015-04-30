@@ -103,4 +103,9 @@
 						<a href="https://www.youtube.com/channel/{{ site.theme.youtube }}" title="{{ site.theme.str_follow_on }} YouTube">
 							<i class="fa fa-fw fa-youtube"></i>
 						</a>
+					</li>{% endif %}{% if site.theme.onesignalsdk_appid and site.theme.onesignalsdk_subdomain %}
+					<li>
+						<a id="icon-bell" href="#" title="{{ site.theme.str_follow_on }} Chrome (notifications)">
+							<i class="fa fa-bell"></i>
+						</a>
 					</li>{% endif %}
