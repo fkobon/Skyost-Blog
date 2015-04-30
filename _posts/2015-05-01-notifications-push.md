@@ -1,22 +1,22 @@
 ---
 layout: post
 tags: ["amelioration", "notifications", "push", "chrome"]
-title: "Les notifications push sont l‡ !"
+title: "Les notifications push sont l√† !"
 ---
 
 Salut !<br />
 
 Je viens comme promis d'ajouter les notifications push au blog.
 
-ContrËtement, Áa marche gr‚ce ‡ un service qui s'appelle [OneSignal](https://onesignal.com) qui me permet de vous envoyer des notifications ‡ travers leur site.
-Donc pour vous, vous cliquez juste sur la petite cloche en haut ‡ droite :
+Concr√®tement, √ßa marche gr√¢ce √† un service qui s'appelle [OneSignal](https://onesignal.com) et qui me permet de vous envoyer des notifications √† travers leur site.
+Donc pour vous, vous cliquez juste sur la petite cloche en haut √† droite :
 
 ![Ding Dong !](http://i.imgur.com/dWxtLY1.png)
 
-Et vous acceptez ainsi de recevoir les messages que je vous enverrai (vous pouvez vous dÈsabonner [ici](chrome://settings/contentExceptions#notifications)).<br />
-Ce service sera principalement utilisÈ pour vous notifier quand il y aura de nouveau articles.
+Et vous acceptez ainsi de recevoir les messages que je vous enverrai (vous pouvez vous d√©sabonner [ici](chrome://settings/contentExceptions#notifications)).<br />
+Ce service sera principalement utilis√© pour vous notifier quand il y aura de nouveau articles.
 
-Voil‡ voil‡, que dire de plus ?
+Voil√†voil√†, que dire de plus ?
 
-En espÈrant vous voir trËs vite vous abonner ! :smirk:<br />
+En esp√©rant vous voir nombreux ! :smirk:<br />
 -Skyost
