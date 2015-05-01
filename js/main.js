@@ -1,6 +1,6 @@
 var elements = document.getElementsByTagName('script');
 var icon = document.getElementById('footer-icon');
-var header = document.getElementById('site-header');
+var header = document.getElementsByClassName('site-header')[0];
 
 Array.prototype.forEach.call(elements, function(element) {
 	if(element.type.indexOf('math/tex') != -1) {
