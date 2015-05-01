@@ -68,5 +68,7 @@ if(typeof header !== 'undefined') {
 	}
 	new HttpClient().get('http://image-a-day.herokuapp.com/image', function(response) {
 		header.style.backgroundImage = 'url(\'' + JSON.parse(response).imageUrl + '\')';
+		header.style.backgroundRepeat = 'no-repeat';
+		header.style.backgroundPosition = 'center';
 	});	
 }
