@@ -1,5 +1,6 @@
 var elements = document.getElementsByTagName('script');
 var icon = document.getElementById('footer-icon');
+var header = document.getElementsByClassName('site-header');
 
 Array.prototype.forEach.call(elements, function(element) {
 	if(element.type.indexOf('math/tex') != -1) {
@@ -15,6 +16,13 @@ Array.prototype.forEach.call(elements, function(element) {
 		 katex.render(textToRender, katexElement);
 		 element.parentNode.insertBefore(katexElement, element);
 	}
+});
+
+stLight.options({
+	publisher: '03ea2b5b-f960-4edf-b456-9565dbf2be0e',
+	doNotHash: false,
+	doNotCopy: false,
+	hashAddressBar: false
 });
 
 if(icon != undefined) {
@@ -52,9 +60,20 @@ if(icon != undefined) {
 	});
 }
 
-stLight.options({
-	publisher: "03ea2b5b-f960-4edf-b456-9565dbf2be0e",
-	doNotHash: false,
-	doNotCopy: false,
-	hashAddressBar: false
-});
+if(header != undefined) {
+	var HttpClient = function() {
+		this.get = function(url, callback) {
+			var httpRequest = new XMLHttpRequest();
+			httpRequest.onreadystatechange = function() {
+				if(httpRequest.readyState == 4 && httpRequest.status == 200) {
+					callback(httpRequest.responseText);
+				}
+			}
+			httpRequest.open('GET', url, true);            
+			httpRequest.send(null);
+		}
+	}
+	new HttpClient().get('http://image-a-day.herokuapp.com/image', function(response) {
+		header.style.backgroundImage = 'url(' . JSON.parse(response).imageUrl . ')';
+	});	
+}
