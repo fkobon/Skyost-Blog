@@ -1,6 +1,6 @@
 var elements = document.getElementsByTagName('script');
 var icon = document.getElementById('footer-icon');
-var header = document.getElementsByClassName('site-header');
+var header = document.getElementById('site-header');
 
 Array.prototype.forEach.call(elements, function(element) {
 	if(element.type.indexOf('math/tex') != -1) {
@@ -18,7 +18,7 @@ Array.prototype.forEach.call(elements, function(element) {
 	}
 });
 
-if(icon != undefined) {
+if(typeof icon !== 'undefined') {
 	function getRandomInt(min, max) {
 		return Math.floor(Math.random() * (max - min)) + min;
 	}
@@ -53,7 +53,7 @@ if(icon != undefined) {
 	});
 }
 
-if(header != undefined) {
+if(typeof header !== 'undefined') {
 	var HttpClient = function() {
 		this.get = function(url, callback) {
 			var httpRequest = new XMLHttpRequest();
