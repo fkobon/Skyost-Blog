@@ -7,7 +7,7 @@ theme:
   # Meta
   favicon: "http://blog.skyost.eu/favicon.ico"
   title: "Blog de Skyost"
-  avatar: "https://secure.gravatar.com/avatar/9b0765ed2ff3b7fb478b0f0feaeb1f05?s=90"
+  avatar: "https://secure.gravatar.com/avatar/9b0765ed2ff3b7fb478b0f0feaeb1f05?s=150"
   description: "Le blog d'un développeur" # used by search engines
 
   # Header and footer text
