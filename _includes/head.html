@@ -1,9 +1,9 @@
 	<head>
-		<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 		<title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.theme.title }}</title>
 		<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme.description }}{% endif %}">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta http-equiv="X-Frame-Options" content="SAMEORIGIN">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	
 		<!-- CSS -->
 		<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
@@ -36,4 +36,10 @@
 			ga('create', '{{ site.theme.google_analytics }}', 'auto');
 			ga('send', 'pageview');
 		</script>{% endif %}
+		
+		<!-- Twitter Cards -->
+		{% if page.title %}<meta name="twitter:title" content="{{ page.title }}">{% else %}<meta name="twitter:title" content="{{ site.theme.title }}">{% endif %}
+		{% if page.url %}<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">{% endif %}
+		{% if page.description %}<meta name="twitter:description" content="{{ page.description }}">{% else %}<meta name="twitter:description" content="{{ site.theme.description }}">{% endif %}
+		{% if page.feature-img %}<meta name="twitter:image:src" content="{{ page.feature-img }}">{% elseif site.theme.avatar %}<meta name="twitter:image:src" content="{{ site.theme.avatar }}">{% endif %}
 	</head>
