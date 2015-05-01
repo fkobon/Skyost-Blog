@@ -36,10 +36,13 @@
 			ga('create', '{{ site.theme.google_analytics }}', 'auto');
 			ga('send', 'pageview');
 		</script>{% endif %}
-		
+{% if site.theme.twitter %}
 		<!-- Twitter Cards -->
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:card" content="@{{ site.theme.twitter }}">
+		
 		{% if page.title %}<meta name="twitter:title" content="{{ page.title }}">{% else %}<meta name="twitter:title" content="{{ site.theme.title }}">{% endif %}
 		{% if page.url %}<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">{% endif %}
-		{% if page.description %}<meta name="twitter:description" content="{{ page.description }}">{% else %}<meta name="twitter:description" content="{{ site.theme.description }}">{% endif %}
-		{% if page.feature-img %}<meta name="twitter:image:src" content="{{ page.feature-img }}">{% elsif site.theme.avatar %}<meta name="twitter:image:src" content="{{ site.theme.avatar }}">{% endif %}
+		{% if page.excerpt %}<meta name="twitter:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}">{% else %}<meta name="twitter:description" content="{{ site.theme.description }}">{% endif %}
+		{% if page.feature-img %}<meta name="twitter:image" content="{{ page.feature-img }}">{% elsif site.theme.avatar %}<meta name="twitter:image" content="{{ site.theme.avatar }}">{% endif %}{% endif %}
 	</head>
