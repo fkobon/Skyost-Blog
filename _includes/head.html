@@ -41,5 +41,5 @@
 		{% if page.title %}<meta name="twitter:title" content="{{ page.title }}">{% else %}<meta name="twitter:title" content="{{ site.theme.title }}">{% endif %}
 		{% if page.url %}<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">{% endif %}
 		{% if page.description %}<meta name="twitter:description" content="{{ page.description }}">{% else %}<meta name="twitter:description" content="{{ site.theme.description }}">{% endif %}
-		{% if page.feature-img %}<meta name="twitter:image:src" content="{{ page.feature-img }}">{% elseif site.theme.avatar %}<meta name="twitter:image:src" content="{{ site.theme.avatar }}">{% endif %}
+		{% if page.feature-img %}<meta name="twitter:image:src" content="{{ page.feature-img }}">{% elsif site.theme.avatar %}<meta name="twitter:image:src" content="{{ site.theme.avatar }}">{% endif %}
 	</head>
