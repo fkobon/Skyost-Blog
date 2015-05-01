@@ -18,13 +18,6 @@ Array.prototype.forEach.call(elements, function(element) {
 	}
 });
 
-stLight.options({
-	publisher: '03ea2b5b-f960-4edf-b456-9565dbf2be0e',
-	doNotHash: false,
-	doNotCopy: false,
-	hashAddressBar: false
-});
-
 if(icon != undefined) {
 	function getRandomInt(min, max) {
 		return Math.floor(Math.random() * (max - min)) + min;
@@ -74,6 +67,6 @@ if(header != undefined) {
 		}
 	}
 	new HttpClient().get('http://image-a-day.herokuapp.com/image', function(response) {
-		header.style.backgroundImage = 'url(' . JSON.parse(response).imageUrl . ')';
+		header.style.backgroundImage = 'url(\'' + JSON.parse(response).imageUrl + '\')';
 	});	
 }
