@@ -51,3 +51,5 @@ if(icon != undefined) {
 		endAudio:  '/music/ding.mp3'
 	});
 }
+
+stLight.options({publisher: "03ea2b5b-f960-4edf-b456-9565dbf2be0e", doNotHash: false, doNotCopy: false, hashAddressBar: true});
