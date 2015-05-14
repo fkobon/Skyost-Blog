@@ -17,7 +17,7 @@ M'enfin voilà, les premiers tests sont concluants et j'en suis même assez cont
 
 Pour l'info, j'utilise des classes pour évaluer les expressions mathématiques et logiques comme [celle-ci](http://softwaremonkey.org/Code/MathEval) et [celle-là](http://codereview.stackexchange.com/q/38348).
 
-C'est tou-pour aujourd'hui !<br />
+C'est tout pour aujourd'hui !<br />
 -Skyost
 
 PS : Si je ne poste pas d'autre billet avant Noël, je vous souhaite de joyeuses fêtes à tous !
