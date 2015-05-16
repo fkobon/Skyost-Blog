@@ -5,7 +5,7 @@ title: "Savoir quand utiliser un JPEG, un GIF ou un PNG"
 ---
 
 Hey !<br />
-Je récemment tombé sur une petite infographie vachement sympa qui évite de se mélanger entre les types de fichiers pour image.
+Je récemment tombé sur une petite infographie vachement sympa qui évite de se mélanger entre les types de fichier pour image.
 
 C'est très pratique et ça vous évite surtout de passer pour un cake si vous êtes webmaster :wink:<br />
 Sans plus attendre, la voici :
