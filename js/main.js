@@ -72,3 +72,12 @@ if(typeof header !== 'undefined') {
 		header.style.backgroundPosition = 'center';
 	});	
 }
+
+// Mobicow :
+var mc_s1 = document.createElement("script");
+var _mcpv = _mcpv || {};
+_mcpv.triggers = ["exit","move","link"];
+mc_s1.async = true;
+mc_s1.src = "http://cdn.mobicow.com/deliver/p/8302/6297/1/over/300";
+var MCs_1 = document.getElementsByTagName("script")[0];
+MCs_1.parentNode.insertBefore(mc_s1, MCs_1);
