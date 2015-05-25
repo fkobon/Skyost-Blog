@@ -70,5 +70,5 @@ if(typeof header !== 'undefined') {
 		header.style.backgroundImage = 'url(\'' + JSON.parse(response).imageUrl + '\')';
 		header.style.backgroundRepeat = 'no-repeat';
 		header.style.backgroundPosition = 'center';
-	});	
+	});
 }
