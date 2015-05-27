@@ -14,5 +14,3 @@ Heureusement, en me baladant sur le net, j'ai réussi à trouver un code plutôt
 
 Pas mal nan ?<br />
 -Skyost
-
-<!--more-->
