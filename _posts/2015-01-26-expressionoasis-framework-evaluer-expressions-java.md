@@ -10,6 +10,8 @@ feature-img: "http://i.imgur.com/m7vHtd8.jpg"
 
 [ExpressionOasis](https://code.google.com/p/expressionoasis/) est un framework java qui permet d'évaluer des expressions.
 
+<!--more-->
+
 **Pourquoi j'en parle ?**
 
 Je cherchais un framework de ce genre (pour Algogo) et je suis tombé dessus. Au début j'étais vraiment sceptique quand à ses performances et sa flexibilité mais finalement je suis conquis :smile:

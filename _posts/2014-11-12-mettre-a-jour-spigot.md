@@ -11,7 +11,9 @@ Vous êtes embêtés par le fait que Spigot n'est plus disponible au télécharg
 Et bien grâce à ce tutoriel, vous n'aurez plus de problème pour jouer avec vos amis !
 
 Vous devez vous munir de la dernière version de Spigot non patchée (la #1649).
+
 <!--more-->
+
 Pour vous faciliter la tâche, je vous ai trouvé plusieurs liens mirroirs pour la télécharger. Le MD5 checksum doit être _f2edc09c45b1f80237602dc0d1b05969_ :
 
 * [Lien 1](http://getspigot.org/download/build/1649/Spigot.jar).

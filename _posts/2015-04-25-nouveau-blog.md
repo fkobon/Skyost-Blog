@@ -17,3 +17,5 @@ Voilà voilà, sympa non ?<br />
 -Skyost
 
 PS : Grâce à Jekyll, le blog est open-source, n'hésitez pas à voir tout ça [ici](https://github.com/Skyost/skyost.github.io).
+
+<!--more-->

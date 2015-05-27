@@ -12,3 +12,5 @@ Si vous avez une copie de certains pastes, n'hésitez pas à me contacter par n'
 
 Voilà voilà, désolé de l'incident !<br />
 -Skyost
+
+<!--more-->

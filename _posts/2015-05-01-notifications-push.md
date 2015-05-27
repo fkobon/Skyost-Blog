@@ -22,3 +22,5 @@ En espérant vous voir nombreux ! :smirk:<br />
 -Skyost
 
 PS : Si vous ne voyez pas l'icône, c'est que ces notifications ne sont pas disponibles pour votre navigateur.
+
+<!--more-->

@@ -12,3 +12,5 @@ Donc voilà, il est disponible ici sous [Skyolicense](http://www.skyost.eu/skyol
 
 C'est tout !<br />
 -Skyost
+
+<!--more-->
