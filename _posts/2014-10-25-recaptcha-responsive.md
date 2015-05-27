@@ -1,6 +1,7 @@
 ---
 layout: post
 tags: ["recaptcha", "responsive", "bootstrap", "paste"]
+excerpt_separator: <!--more-->
 title: "reCAPTCHA en responsive"
 ---
 

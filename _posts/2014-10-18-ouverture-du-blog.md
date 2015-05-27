@@ -1,6 +1,7 @@
 ---
 layout: post
 tags: ["ouverture", "blog"]
+excerpt_separator: <!--more-->
 title: "Ouverture du blog"
 ---
 

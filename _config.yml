@@ -52,7 +52,7 @@ theme:
   str_email: "Email"
   str_next: "Suivant"
   str_prev: "Précédent"
-  str_continue_reading: "Continuer à lire"
+  str_continue_reading: "Continuer à lier"
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"

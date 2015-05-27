@@ -1,6 +1,7 @@
 ---
 layout: post
 tags: ["ExpressionOasis", "framework", "expression", "evaluator", "dev", "code", "java"]
+excerpt_separator: <!--more-->
 title: "ExpressionOasis - Un framework pour évaluer des expressions en Java"
 feature-img: "http://i.imgur.com/m7vHtd8.jpg"
 ---
