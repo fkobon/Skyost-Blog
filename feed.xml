@@ -11,6 +11,8 @@ sitemap:
     <link>{{ site.url }}{{ site.baseurl }}/</link>
     <description>{{ site.theme.description | xml_escape }}</description>
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <language>fr-FR</language>
+    <generator>http://jekyllrb.com/</generator>
     {% for post in site.posts limit:15 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
