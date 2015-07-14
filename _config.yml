@@ -52,7 +52,7 @@ theme:
   str_email: "Email"
   str_next: "Suivant"
   str_prev: "Précédent"
-  str_view_comments: "Voir les commentaires"
+  str_view_post: "Voir l'article"
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
