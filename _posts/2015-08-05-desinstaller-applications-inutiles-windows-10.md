@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: ["desinstaller", "applications", "inutiles", "windows", "10"]
-title: "Au revoir Free-H !"
+title: "Supprimer les applications inutiles de Windows 10"
 ---
 
 Comme beaucoup de personnes je pense que vous êtes passés à Windows 10. Alors premières impressions : c'est beau, c'est cool mais il y a (encore) pas mal de trucs inutiles.
