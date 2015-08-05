@@ -8,79 +8,79 @@ Comme beaucoup de personnes je pense que vous êtes passés à Windows 10. Alors
 
 Donc, voici certaines commandes que vous pouvez utiliser pour désinstaller les applications qui ne vous servent pas.
 
-Tout d'abord, [ouvrez une invite de command (cmd) en tant qu'administrateur](http://i.imgur.com/b7jdIkQ.png) et tapez "powershell".
+Tout d'abord, [ouvrez une invite de commandes (cmd) en tant qu'administrateur](http://i.imgur.com/b7jdIkQ.png) et tapez "powershell".
 <br />Puis, entrez les commandes que vous souhaitez :
 
-## Supprimer 3D Builder
+### Supprimer 3D Builder
 <pre>Get-AppxPackage -AllUsers -Name Microsoft.3DBuilder | Remove-AppxPackage</pre>
 
-## Supprimer Alarmes et horloge
+### Supprimer Alarmes et horloge
 <pre>Get-AppxPackage -AllUsers -Name Microsoft.WindowsAlarms | Remove-AppxPackage</pre>
 
-## Supprimer Bing Actualité
+### Supprimer Bing Actualité
 <pre>Get-AppxPackage -AllUsers -Name Microsoft.BingNews | Remove-AppxPackage</pre>
 
-## Supprimer Bing Finance
+### Supprimer Bing Finance
 <pre>Get-AppxPackage -AllUsers -Name Microsoft.BingFinance | Remove-AppxPackage</pre>
 
-## Supprimer Bing Météo
+### Supprimer Bing Météo
 <pre>Get-AppxPackage -AllUsers -Name Microsoft.BingWeather | Remove-AppxPackage</pre>
 
-## Supprimer Bing Sport
+### Supprimer Bing Sport
 <pre>Get-AppxPackage -AllUsers -Name Microsoft.BingSports | Remove-AppxPackage</pre>
 
-## Supprimer Camera
+### Supprimer Camera
 <pre>Get-AppxPackage -AllUsers -Name Microsoft.WindowsCamera | Remove-AppxPackage</pre>
 
-## Supprimer Cartes
+### Supprimer Cartes
 <pre>Get-AppxPackage -AllUsers -Name Microsoft.WindowsMaps | Remove-AppxPackage</pre>
 
-## Supprimer Contacts
+### Supprimer Contacts
 <pre>Get-AppxPackage -AllUsers -Name Microsoft.People | Remove-AppxPackage</pre>
 
-## Supprimer Courrier et Calendrier
+### Supprimer Courrier et Calendrier
 <pre>Get-AppxPackage *communi* | Remove-AppxPackage</pre>
 
-## Supprimer Enregistreur Vocal
+### Supprimer Enregistreur Vocal
 <pre>Get-AppxPackage -AllUsers -Name Microsoft.WindowsSoundRecorder | Remove-AppxPackage</pre>
 
-## Supprimer Get Started
+### Supprimer Get Started
 <pre>Get-AppxPackage -AllUsers -Name Microsoft.Getstarted | Remove-AppxPackage</pre>
 
-## Supprimer Microsoft Edge
+### Supprimer Microsoft Edge
 *Ceci va entraîner des problèmes sur plusieurs applications !*
 <pre>Get-AppxPackage -AllUsers -Name Microsoft.MicrosoftEdge | Remove-AppxPackage</pre>
 
-## Supprimer Microsoft Office (hub)
+### Supprimer Microsoft Office (hub)
 <pre>Get-AppxPackage -AllUsers -Name Microsoft.MicrosoftOfficeHub | Remove-AppxPackage</pre>
 
-## Supprimer Musique
+### Supprimer Musique
 <pre>Get-AppxPackage -AllUsers -Name Microsoft.ZuneMusic | Remove-AppxPackage</pre>
 
-## Supprimer OneNote
+### Supprimer OneNote
 *Pour rappel, OneNote ne fonctionne pas si OneDrive est désinstallé.*
 <pre>Get-AppxPackage -AllUsers -Name Microsoft.Office.OneNote | Remove-AppxPackage</pre>
 
-## Supprimer Phone Companion
+### Supprimer Phone Companion
 <pre>Get-AppxPackage -AllUsers -Name Microsoft.WindowsPhone | Remove-AppxPackage</pre>
 
-## Supprimer Photos
+### Supprimer Photos
 <pre>Get-AppxPackage -AllUsers -Name Microsoft.Windows.Photos | Remove-AppxPackage</pre>
 
-## Supprimer Skype
+### Supprimer Skype
 <pre>Get-AppxPackage -AllUsers -Name Microsoft.SkypeApp | Remove-AppxPackage</pre>
 
-## Supprimer Solitaire Collection
+### Supprimer Solitaire Collection
 <pre>Get-AppxPackage -AllUsers -Name Microsoft.MicrosoftSolitaireCollection | Remove-AppxPackage</pre>
 
-## Supprimer Vidéo
+### Supprimer Vidéo
 <pre>Get-AppxPackage -AllUsers -Name Microsoft.ZuneVideo | Remove-AppxPackage</pre>
 
-## Supprimer Xbox
+### Supprimer Xbox
 *Certains jeux téléchargés sur le Windows Store ne fonctionneront plus !*
 <pre>Get-AppxPackage -AllUsers -Name Microsoft.XboxApp | Remove-AppxPackage</pre>
 
-## Pour supprimer OneDrive
+### Pour supprimer OneDrive
 Copiez-collez le code ci-dessous et enregistrez le dans un fichier "OneDrive.cmd" avec le bloc-notes (respectez bien les guillemets), puis executez le.
 <pre>@echo off
 cls
