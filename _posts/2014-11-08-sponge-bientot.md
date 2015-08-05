@@ -1,7 +1,6 @@
 ---
 layout: post
 tags: ["sponge", "spongepowered"]
-excerpt_separator: <!--more-->
 title: "Sponge, c'est pour bientôt !"
 ---
 
@@ -16,8 +15,6 @@ Vous pouvez donc en savoir plus sur [leur FAQ](https://docs.google.com/document/
 Alors pourquoi ne vous en parler que maintenant ?
 
 Et bien tout simplement car il risque d'y avoir un peu de mouvement autour du projet dans pas très longtemps.
-
-<!--more-->
 
 En effet, les développeurs sont sur le point d'envoyer un première release de leur API. Cela ne concerne que les développeurs mais cela permettra de commencer dès maintenant à créer et/ou porter des plugins pour Sponge.
 

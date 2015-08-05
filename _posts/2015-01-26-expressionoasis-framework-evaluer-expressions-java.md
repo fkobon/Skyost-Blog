@@ -1,7 +1,6 @@
 ---
 layout: post
 tags: ["ExpressionOasis", "framework", "expression", "evaluator", "dev", "code", "java"]
-excerpt_separator: <!--more-->
 title: "ExpressionOasis - Un framework pour évaluer des expressions en Java"
 feature-img: "http://i.imgur.com/m7vHtd8.jpg"
 ---
@@ -9,8 +8,6 @@ feature-img: "http://i.imgur.com/m7vHtd8.jpg"
 **Qu'est-ce-que c'est ?**
 
 [ExpressionOasis](https://code.google.com/p/expressionoasis/) est un framework java qui permet d'évaluer des expressions.
-
-<!--more-->
 
 **Pourquoi j'en parle ?**
 

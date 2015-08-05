@@ -1,7 +1,6 @@
 ---
 layout: post
 tags: ["amelioration", "notifications", "push", "chrome"]
-excerpt_separator: <!--more-->
 title: "Les notifications push sont là !"
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 tags: ["amelioration", "nouveau", "blog"]
-excerpt_separator: <!--more-->
 title: "Nouveau blog !"
 ---
 

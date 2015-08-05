@@ -1,7 +1,6 @@
 ---
 layout: post
 tags: ["code", "source", "code-source, "source-code", "paste", "pastebin"]
-excerpt_separator: <!--more-->
 title: "paste.skyost.eu - Code Source"
 ---
 

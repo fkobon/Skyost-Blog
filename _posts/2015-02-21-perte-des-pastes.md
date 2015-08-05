@@ -1,7 +1,6 @@
 ---
 layout: post
 tags: ["incident", "perte", "pastes"]
-excerpt_separator: <!--more-->
 title: "Perte des pastes"
 ---
 

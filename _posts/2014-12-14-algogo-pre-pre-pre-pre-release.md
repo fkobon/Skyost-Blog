@@ -1,14 +1,11 @@
 ---
 layout: post
 tags: ["algo", "algobox", "algogo", "algorithm", "java", "dev"]
-excerpt_separator: <!--more-->
 title: "Algogo pre pre pre [...] pre release"
 ---
 
 Salut à tous !<br />
 Ceux qui me suivent sur Twitter le savent : je développe une sorte de clone d'Algobox (un logiciel utilisé pour créer des algorithmes sur ordinateur).
-
-<!--more-->
 
 Aujourd'hui (enfin, depuis hier précisément), j'ai enfin quelque chose de concret à vous proposer : une vidéo.
 
