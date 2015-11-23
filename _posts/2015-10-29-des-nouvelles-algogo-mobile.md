@@ -20,7 +20,7 @@ Voici une petite vidéo de présentation :
 Voilà voilà, sinon entre-temps j'ai mis à jour mon plugin [Skyoseasons](http://www.skyoseasons.cf/) (qui ajoute les saisons aux serveurs Minecraft) et il supporte désormais la dernière 1.8 ! :smirk:<br />
 En attendant la 1.9, ...
 
-Je crois que c'est tout sinon, hésitez pas à me suivre sur [twitter](https://twitter.com/SkyostDev) si vous voulez des news plus régulières (même si je parle surtout de foot en fait) !
+Je crois que c'est tout sinon, hésitez pas à me suivre sur [twitter](https://twitter.com/Skyost_) si vous voulez des news plus régulières (même si je parle surtout de foot en fait) !
 
 Allez, à la prochaine !<br />
 - Skyost
