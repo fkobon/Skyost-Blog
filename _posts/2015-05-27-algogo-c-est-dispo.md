@@ -15,9 +15,9 @@ Une vidéo est disponible (cependant si vous êtes vraiment intéressés par le 
 
 Et voici des screenshots :
 
-![Screenshot 1](http://www.algogo.xyz/assets/img/screenshots/0.png)
+![Screenshot 1](http://www.algogo.xyz/assets/img/screenshots/fr/0.png)
 
-![Screenshot 2](http://www.algogo.xyz/assets/img/screenshots/1.png)
+![Screenshot 2](http://www.algogo.xyz/assets/img/screenshots/fr/1.png)
 
 Allez salut !<br />
 -Skyost

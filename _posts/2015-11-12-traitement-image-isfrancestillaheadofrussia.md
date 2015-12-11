@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: ["traitement", "images", "is", "france", "still", "ahead", "of", "russia"]
-title: "Traitement d'images et isfrancestillaheadofrussia"
+title: "Traitement d'images et Is France still ahead of Russia ?"
 ---
 
 Coucou les gens !
@@ -10,7 +10,7 @@ Que de nouvelles depuis la dernière fois. Je bosse sur un logiciel de traitemen
 
 Une petit photo de la reconnaissance faciale :
 
-![Traitement d'images](https://github.com/Skyost/TraitementImage/blob/master/screenshots/screen-1.png)
+![Traitement d'images](https://raw.githubusercontent.com/Skyost/TraitementImage/master/screenshots/screen-1.png)
 
 Sinon j'ai créé un [petit site](http://skyost.github.io/isfrancestillaheadofrussia) qui permet de déterminer grâce à un peu de scrapping si le France est toujours devant la Russie au [classement UEFA](https://fr.wikipedia.org/wiki/Coefficient_UEFA). Et tant que j'y suis, j'ai même eu le temps de créer la petite appli qui va avec :
 
