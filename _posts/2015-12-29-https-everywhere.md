@@ -6,11 +6,11 @@ title: "HTTPS everywhere !"
 
 Bonjour bonjour,
 
-Aujourd'hui, et grâce à Cloudflare, je viens de passer mes sites en [https](http://stackoverflow.com/questions/6241991/how-exactly-https-ssl-works) ! Vous ne notifierez rien, mais vos connexions vers mes sites seront désormais éxecutées de manière cryptée.
+Aujourd'hui, et [grâce à Cloudflare](https://www.techrevolutions.fr/votre-site-en-https-en-3-minutes-grace-a-cloudflare) (autre tuto [ici](https://blog.cloudflare.com/easiest-ssl-ever-now-included-automatically-w/)), je viens de passer mes sites en [https](http://stackoverflow.com/questions/6241991/how-exactly-https-ssl-works) ! Vous ne notifierez rien, mais vos connexions vers mes sites seront désormais éxecutées de manière cryptée.
 
-![https blog.skyost.eu](http://imgur.com/VJfOMvA)
+![https blog.skyost.eu](https://imgur.com/VJfOMvA.png)
 
-![https algogo.xyz](https://imgur.com/VcJPCv6)
+![https algogo.xyz](https://imgur.com/VcJPCv6.png)
 
 Sympa non ?<br />
 - Skyost
