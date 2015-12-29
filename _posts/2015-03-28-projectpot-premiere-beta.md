@@ -14,7 +14,7 @@ Pour ceux que ça intéresse, une démo est disponible [ici](http://projects.sky
 Donc voilà vous pouvez télécharger tout ça [ici](https://github.com/Skyost/Projectpot/releases). Le code source et la documentation projet sont disponibles [ici](https://github.com/Skyost/Projectpot) et le site web est [ici](http://skyost.github.io/Projectpot), n'hésitez pas à m'aider à l'améliorer, toute aide est bénéfique !
 
 Voilà, voilà, je vous laisse avec les screenshots de Projectpot :
-[![Interface](http://i.imgur.com/1KO4ZVr.png)](http://i.imgur.com/1KO4ZVr.png)[![Administration](http://i.imgur.com/dzTMkKc.png)](http://i.imgur.com/dzTMkKc.png)
+[![Interface](https://i.imgur.com/1KO4ZVr.png)](https://i.imgur.com/1KO4ZVr.png)[![Administration](https://i.imgur.com/dzTMkKc.png)](https://i.imgur.com/dzTMkKc.png)
 
 A la prochaine !<br />
 -Skyost

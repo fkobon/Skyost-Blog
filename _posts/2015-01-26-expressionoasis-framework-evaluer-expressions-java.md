@@ -2,7 +2,7 @@
 layout: post
 tags: ["ExpressionOasis", "framework", "expression", "evaluator", "dev", "code", "java"]
 title: "ExpressionOasis - Un framework pour évaluer des expressions en Java"
-feature-img: "http://i.imgur.com/m7vHtd8.jpg"
+feature-img: "https://i.imgur.com/m7vHtd8.jpg"
 ---
 
 **Qu'est-ce-que c'est ?**
@@ -23,6 +23,6 @@ Voici [un petit exemple](http://paste.skyost.eu/skyost-54c6808c1fa28) que vous c
 
 Allez, pour vous dire au revoir voici une photo d'un oasis (badum tsss !) :
 
-![Oasis](http://i.imgur.com/m7vHtd8.jpg)
+![Oasis](https://i.imgur.com/m7vHtd8.jpg)
 
 -Skyost

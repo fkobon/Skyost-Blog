@@ -15,7 +15,7 @@ Sinon autre nouvelle, après quelques jours de développement, j'ai terminé la 
 
 Voici une petite vidéo de présentation :
 
-<iframe src="//www.youtube.com/embed/yEG3LpRpKfQ" width="560" height="315" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/yEG3LpRpKfQ" width="560" height="315" frameborder="0"></iframe>
 
 Voilà voilà, sinon entre-temps j'ai mis à jour mon plugin [Skyoseasons](http://www.skyoseasons.cf/) (qui ajoute les saisons aux serveurs Minecraft) et il supporte désormais la dernière 1.8 ! :smirk:<br />
 En attendant la 1.9, ...

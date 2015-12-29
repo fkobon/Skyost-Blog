@@ -9,7 +9,7 @@ Ceux qui me suivent sur Twitter le savent : je développe une sorte de clone d'A
 
 Aujourd'hui (enfin, depuis hier précisément), j'ai enfin quelque chose de concret à vous proposer : une vidéo.
 
-<iframe src="//www.youtube.com/embed/ZP5T5sAH2xg" width="560" height="315" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/ZP5T5sAH2xg" width="560" height="315" frameborder="0"></iframe>
 
 Comme écrit dans la description, il manque pas mal de trucs et l'interface reste pas très belle.
 

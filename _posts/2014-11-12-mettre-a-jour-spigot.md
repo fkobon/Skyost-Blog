@@ -21,13 +21,13 @@ Merci qui ? :smiley:
 
 Une fois cette version en poche (si les liens précédents sont supprimés, vous pouvez toujours taper "spigot 1649" sur Google ou autre, vous devrez aboutir au mêmes résultats), vous devez maintenant télécharger le patcher qui est disponible [ici](http://ci.md-5.net/job/SpigotPatcher/lastStableBuild/).
 
-Ceci fait, rendez-vous [ici](http://www.spigotmc.org/spigot-updates/) et téléchargez la dernière version de Spigot. Elles sont ordonnées par date donc [vous ne devriez pas avoir de mal](http://i.imgur.com/63BmKM7.png) à trouver la plus récente ;)
+Ceci fait, rendez-vous [ici](http://www.spigotmc.org/spigot-updates/) et téléchargez la dernière version de Spigot. Elles sont ordonnées par date donc [vous ne devriez pas avoir de mal](https://i.imgur.com/63BmKM7.png) à trouver la plus récente ;)
 
 Attention ! Ne téléchargez que le fichier BPS correspondant à cette version !
 
 Voilé voilé, lancez maintenant le .jar et un GUI devrait apparaître. Voici les instructions :
 
-![GUI](http://i.imgur.com/ZdFf0al.png)
+![GUI](https://i.imgur.com/ZdFf0al.png)
 
 Une fois les trois champs remplis, cliquez sur "Patch!" (plusieurs fois si nécessaire).
 
