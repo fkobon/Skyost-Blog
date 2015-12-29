@@ -10,7 +10,7 @@ Aujourd'hui, et [grâce à Cloudflare](https://www.techrevolutions.fr/votre-site
 
 ![https blog.skyost.eu](https://imgur.com/VJfOMvA.png)
 
-![https algogo.xyz](https://imgur.com/VcJPCv6.png)
+![https algogo.xyz](https://imgur.com/mv1YnGO.png)
 
 Sympa non ?<br />
 - Skyost
