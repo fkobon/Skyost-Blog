@@ -16,8 +16,6 @@ Sinon j'ai créé un [petit site](http://skyost.github.io/isfrancestillaheadofru
 
 <a href="https://play.google.com/store/apps/details?id=fr.skyost.algo.mobile" target="_blank"><img src="https://www.algogo.xyz/assets/img/mobile-markets/google-play.png" alt="Get it on Google Play !" height="45"/></a>
 
-[![Get it on Google Play !](https://developer.android.com/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=fr.skyost.isfrancestillaheadofrussia)
-
 C'était sympa je trouve, j'ai pas mis beaucoup de temps et la faire et j'ai pensé que ça pourrait être utile.
 
 Tiens en passant, cela fait plus d'un an que je tiens ce blog... Avec plus ou moins de régularité :wink:
