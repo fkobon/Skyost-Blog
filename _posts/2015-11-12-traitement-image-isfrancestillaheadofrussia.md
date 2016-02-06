@@ -14,6 +14,8 @@ Une petit photo de la reconnaissance faciale :
 
 Sinon j'ai créé un [petit site](http://skyost.github.io/isfrancestillaheadofrussia) qui permet de déterminer grâce à un peu de scrapping si le France est toujours devant la Russie au [classement UEFA](https://fr.wikipedia.org/wiki/Coefficient_UEFA). Et tant que j'y suis, j'ai même eu le temps de créer la petite appli qui va avec :
 
+<a href="https://play.google.com/store/apps/details?id=fr.skyost.algo.mobile" target="_blank"><img src="https://www.algogo.xyz/assets/img/mobile-markets/google-play.png" alt="Get it on Google Play !" height="45"/></a>
+
 [![Get it on Google Play !](https://developer.android.com/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=fr.skyost.isfrancestillaheadofrussia)
 
 C'était sympa je trouve, j'ai pas mis beaucoup de temps et la faire et j'ai pensé que ça pourrait être utile.

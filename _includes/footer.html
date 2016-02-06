@@ -1,34 +1,35 @@
+<div class="center">
+	<script type='text/javascript' src='//eclkmpbn.com/adServe/banners?tid=31511_45435_4'></script>
+</div>
+{% if site.theme.footer_text %}
+<footer class="site-footer">
+	<p class="text">{{ site.theme.footer_text }}</p>
+	<i id="footer-icon" title="Appeler l'ascenseur !"></i>
+</footer>
+{% endif %}
+<script type="text/javascript" src="{{ "/js/elevator.min.js" | prepend: site.baseurl }}"></script>
+<script type="text/javascript" src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
 
-		<div class="center">
-			<script type='text/javascript' src='//eclkmpbn.com/adServe/banners?tid=31511_45435_4'></script>
-		</div>{% if site.theme.footer_text %}
-		<footer class="site-footer">
-			<p class="text">{{ site.theme.footer_text }}</p>
-			<i id="footer-icon" title="Appeler l'ascenseur !"></i>
-		</footer>{% endif %}
-		<script type="text/javascript" src="{{ "/js/elevator.min.js" | prepend: site.baseurl }}"></script>
-		<script type="text/javascript" src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
 {% if site.theme.onesignalsdk_appid and site.theme.onesignalsdk_subdomain %}
-		<!-- OneSignalSDK -->
-		<script type="text/javascript" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
-		<script type="text/javascript">
-			var OneSignal = OneSignal || [];
-			OneSignal.push(['init', {
-				appId: '{{ site.theme.onesignalsdk_appid }}',
-				subdomainName: '{{ site.theme.onesignalsdk_subdomain }}'
-			}]);
-			
-			function registerForPush() {
+<!-- OneSignalSDK -->
+<script type="text/javascript" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
+<script type="text/javascript">
+	var OneSignal = OneSignal || [];
+	OneSignal.push(['init', {
+		appId: '{{ site.theme.onesignalsdk_appid }}',
+		subdomainName: '{{ site.theme.onesignalsdk_subdomain }}'
+	}]);
+	
+	OneSignal.push(function() {
+		var bell = document.getElementById('icon-bell');
+		if(OneSignal.isPushNotificationsSupported()) {
+			bell.onclick = function() {
 				OneSignal.push(['registerForPushNotifications']);
-			}
-
-			OneSignal.push(function() {
-				var bell = document.getElementById('icon-bell');
-				if(OneSignal.isPushNotificationsSupported()) {
-					bell.onclick = registerForPush;
-				}
-				else {
-					bell.style.display = 'none';
-				}
-			});
-		</script>{% endif %}
+			};
+		}
+		else {
+			bell.style.display = 'none';
+		}
+	});
+</script>
+{% endif %}
