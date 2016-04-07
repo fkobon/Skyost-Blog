@@ -8,7 +8,7 @@ Comme beaucoup de personnes je pense que vous êtes passés à Windows 10. Alors
 
 Donc, voici certaines commandes que vous pouvez utiliser pour désinstaller les applications qui ne vous servent pas.
 
-Tout d'abord, [ouvrez une invite de commandes (cmd) en tant qu'administrateur](https://i.imgur.com/b7jdIkQ.png) et tapez "powershell".
+Tout d'abord, [ouvrez une invite de commandes (cmd) en tant qu'administrateur](https://i.imgur.com/qhrvJRh.png) et tapez "powershell".
 <br />Puis, entrez les commandes que vous souhaitez :
 
 ### Supprimer 3D Builder
