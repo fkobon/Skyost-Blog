@@ -21,4 +21,4 @@ Une fois ces manipulations accomplies, installez le soft téléchargé précedem
 
 Voilà, si le logiciel ne reconnait pas votre machine, suivez les instructions sur [ce site](https://remoteplay.dl.playstation.net/remoteplay/lang/fr/index.html).
 
-Joyeux gaming !
+Happy gaming !
