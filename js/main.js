@@ -66,9 +66,10 @@ if(typeof header !== 'undefined') {
 			httpRequest.send(null);
 		}
 	}
-	new HttpClient().get('//image-a-day.herokuapp.com/image', function(response) {
-		header.style.backgroundImage = 'url(\'' + JSON.parse(response).imageUrl + '\')';
+	new HttpClient().get('http://whateverorigin.org/get?url=' + encodeURIComponent('http://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US') + '&callback=?', function(response) {
+		header.style.backgroundImage = 'url(\'' + JSON.parse(response).images[0].url + '\')';
 		header.style.backgroundRepeat = 'no-repeat';
 		header.style.backgroundPosition = 'center';
+		console.log();
 	});
 }
