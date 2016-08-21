@@ -18,4 +18,6 @@ Convaincu ? Alors, j'en ai un à vous proposer : [Lightshot](https://app.prntscr
 
 <iframe src="https://www.youtube.com/embed/kW5LKwrUPxw" width="560" height="315" frameborder="0"></iframe>
 
+_Je précise qu'il y a juste besoin d'appuyer sur la touche "Impr écran", pas besoin d'aller jusque dans la barre de tâches et de cliquer sur l'icône du logiciel comme dans la vidéo._
+
 C'est tout pour ajourd'hui, bonne journée :wink:
