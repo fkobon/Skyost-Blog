@@ -1,6 +1,5 @@
 var elements = document.getElementsByTagName('script');
 var icon = document.getElementById('footer-icon');
-var header = document.getElementsByClassName('site-header')[0];
 
 Array.prototype.forEach.call(elements, function(element) {
 	if(element.type.indexOf('math/tex') != -1) {
@@ -50,26 +49,5 @@ if(typeof icon !== 'undefined') {
 		element: icon,
 		mainAudio: '/music/elevator-music.mp3', // Music from http://www.bensound.com/
 		endAudio:  '/music/ding.mp3'
-	});
-}
-
-if(typeof header !== 'undefined') {
-	var HttpClient = function() {
-		this.get = function(url, callback) {
-			var httpRequest = new XMLHttpRequest();
-			httpRequest.onreadystatechange = function() {
-				if(httpRequest.readyState == 4 && httpRequest.status == 200) {
-					callback(httpRequest.responseText);
-				}
-			}
-			httpRequest.open('GET', url, true);            
-			httpRequest.send(null);
-		}
-	}
-	new HttpClient().get('http://whateverorigin.org/get?url=' + encodeURIComponent('http://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1&mkt=en-US') + '&callback=?', function(response) {
-		header.style.backgroundImage = 'url(\'' + JSON.parse(response).images[0].url + '\')';
-		header.style.backgroundRepeat = 'no-repeat';
-		header.style.backgroundPosition = 'center';
-		console.log();
 	});
 }

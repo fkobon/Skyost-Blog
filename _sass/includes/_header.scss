@@ -1,6 +1,9 @@
 .site-header {
 	@extend %padding-small;
-	background: $brand-color;
+	background-color: $brand-color;
+	background-image: url('https://source.unsplash.com/random/1920x1200');
+	background-repeat = 'no-repeat';
+	background-position = 'center';
 	border-bottom: 1px solid $border-color;
 	display: inline-block;
 	float: left;
