@@ -1,13 +1,13 @@
 .site-header {
-	@extend %padding-small;
 	background-color: $brand-color;
-	background-image: url('https://source.unsplash.com/random/1920x1200');
+	background-image: url('https://source.unsplash.com/category/nature/1920x1200');
 	background-repeat: 'no-repeat';
 	background-position: 'center';
 	border-bottom: 1px solid $border-color;
 	display: inline-block;
 	float: left;
 	width: 100%;
+	padding: 3em 6% 2em 3%;
 	a {
 		color: $header-link-color;
 	}
