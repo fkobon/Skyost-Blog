@@ -20,4 +20,6 @@ Convaincu ? Alors, j'en ai un à vous proposer : [Lightshot](https://app.prntscr
 
 _Je précise qu'il y a juste besoin d'appuyer sur la touche "Impr écran", pas besoin d'aller jusque dans la barre de tâches et de cliquer sur l'icône du logiciel comme dans la vidéo._
 
-C'est tout pour ajourd'hui, bonne journée :wink:
+C'est tout pour ajourd'hui, bonne journée !
+
+Edit : On me fait signe que [Sharex](https://getsharex.com/) est pas trop mal non plus. À vous de voir :wink:
