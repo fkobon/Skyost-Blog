@@ -14,7 +14,7 @@ Comment ça marche ?
 
 Tout d'abord installez l'extension, et rendez-vous sur twitter. Si vous êtes déjà connecté, il suffit de vous déconnecter et de vous reconnecter avec votre second compte. L'ajout à l'extension se fait automatiquement et il vous suffit de cliquer sur votre photo de profil pour afficher la liste des comptes disponibles :
 
-![twitcher](http://i.imgur.com/nQvkAp2.png)
+![twitcher](https://i.imgur.com/nQvkAp2.png)
 
 Pour supprimer un compte : drag'n'drop du compte à l'extérieur du menu nouvellement créé.
 
