@@ -69,5 +69,6 @@ sass:
 
 # OTHER THINGS
 gems:
+  - jekyll-paginate
   - jemoji
 timezone: "Europe/Paris"
