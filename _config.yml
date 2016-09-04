@@ -3,7 +3,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://blog.skyost.eu" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
-theme:
+blog:
   # Meta
   favicon: "https://blog.skyost.eu/favicon.ico"
   title: "Blog de Skyost"

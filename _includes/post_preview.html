@@ -7,7 +7,7 @@
 	</header>
 	<div class="excerpt">
 		{{ post.content }}
-		<a class="button" href="{{ post.url | prepend: site.baseurl }}">{{ site.theme.str_view_post }} <i class="fa fa-long-arrow-right"></i></a>
+		<a class="button" href="{{ post.url | prepend: site.baseurl }}">{{ site.blog.str_view_post }} <i class="fa fa-long-arrow-right"></i></a>
 	</div>
 	{% if post.tags.size > 0 %}
 		<div class="tags">

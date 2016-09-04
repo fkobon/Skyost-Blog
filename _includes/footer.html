@@ -1,9 +1,9 @@
 <div class="center">
 	<script type='text/javascript' src='//eclkmpbn.com/adServe/banners?tid=31511_45435_4'></script>
 </div>
-{% if site.theme.footer_text %}
+{% if site.blog.footer_text %}
 <footer class="site-footer">
-	<p class="text">{{ site.theme.footer_text }}</p>
+	<p class="text">{{ site.blog.footer_text }}</p>
 	<i id="footer-icon" title="Appeler l'ascenseur !"></i>
 	<p class="text" style="margin-top: 1em;">Propulsé par <a href="https://jekyllrb.com/" target="_blank" style="color: #E74C3C;">Jekyll</a>.</p>
 </footer>
@@ -11,14 +11,14 @@
 <script type="text/javascript" src="{{ "/js/elevator.min.js" | prepend: site.baseurl }}"></script>
 <script type="text/javascript" src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
 
-{% if site.theme.onesignalsdk_appid and site.theme.onesignalsdk_subdomain %}
+{% if site.blog.onesignalsdk_appid and site.blog.onesignalsdk_subdomain %}
 <!-- OneSignalSDK -->
 <script type="text/javascript" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js"></script>
 <script type="text/javascript">
 	var OneSignal = OneSignal || [];
 	OneSignal.push(['init', {
-		appId: '{{ site.theme.onesignalsdk_appid }}',
-		subdomainName: '{{ site.theme.onesignalsdk_subdomain }}'
+		appId: '{{ site.blog.onesignalsdk_appid }}',
+		subdomainName: '{{ site.blog.onesignalsdk_subdomain }}'
 	}]);
 	
 	OneSignal.push(function() {
