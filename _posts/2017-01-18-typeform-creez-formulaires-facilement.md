@@ -18,6 +18,10 @@ En voici <a class="typeform-share link" href="https://skyost.typeform.com/to/jIh
 
 Tout est personnalisable : les couleurs, les descriptions, l'image de fond, ... Si vous souhaitez cependant ajouter un écran de fin, il faudra passer par la version payante.
 
+Ah et tant qu'on y est, j'ai récemment fait une petite apparition dans la vidéo YouTube de mon ami Frathell, n'hésitez pas à regarder ses vidéos et à vous y abonner (c'est pas impossible que je refasse des apparitions) :
+
+<iframe src="https://www.youtube.com/embed/nlvPrRN5v1c" width="560" height="315" frameborder="0"></iframe>
+
 Voilà voilà,
 Bonne année 2017 à vous malgré le retard !
 
