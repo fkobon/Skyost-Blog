@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: ["typeform", "formulaire", "contact"]
-title: "Typeform : créez des formulaires de contact facilement !"
+title: "Typeform : créez de jolis formulaires facilement !"
 ---
 
 Bonjour bonjour,
