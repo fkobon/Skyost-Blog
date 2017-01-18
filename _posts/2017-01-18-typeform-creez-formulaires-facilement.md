@@ -14,7 +14,7 @@ en entendrez bientôt parler sur ce blog). Et ce site étant statique, j'avais b
 
 Et j'ai découvert **typeform**. C'est assez sympa, et ça se présente sous forme "d'assistant" plutôt que de formulaire.
 
-En voici <a class="typeform-share link" href="https://skyost.typeform.com/to/jIh3gu" data-mode="2" target="_blank">un exemple</a> (une petite typeform que j'ai créée pour l'occasion).
+En voici <a class="typeform-share link" href="https://skyost.typeform.com/to/jIh3gu" data-mode="1" target="_blank">un exemple</a> (une petite typeform que j'ai créée pour l'occasion).
 
 Tout est personnalisable : les couleurs, les descriptions, l'image de fond, ... Si vous souhaitez cependant ajouter un écran de fin, il faudra passer par la version payante.
 
