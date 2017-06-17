@@ -16,8 +16,10 @@ Donc n'hésitez pas à me faire passer vos retours, et pour ceux que ça intére
 
 Deux trois captures d'écran si vous voulez :
 
-![Accueil](http://i.imgur.com/X2W92rD.png)
+![Accueil](https://i.imgur.com/X2W92rD.png)
 
-![Un cours](http://i.imgur.com/spm0mZN.png)
+![Index des cours](https://i.imgur.com/J2uxVJ9.png)
+
+![Un cours](https://i.imgur.com/spm0mZN.png)
 
 C'est tout pour ce post, bonne fin de soirée à vous :wink:
