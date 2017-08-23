@@ -14,7 +14,7 @@ Il y a donc à disposition des cours en ligne (téléchargeables et imprimables)
 
 Donc n'hésitez pas à me faire passer vos retours, et pour ceux que ça intéresse, c'est par [ici](https://bacomathiqu.es).
 
-Deux trois captures d'écran si vous voulez :
+Deux trois captures d'écran si vous voulez (je précise désormais qu'au moment où j'édite ce billet, soit le 23/08/2017, le site WEB a bien évolué donc les captures ne sont plus vraiment représentatives) :
 
 ![Accueil](https://i.imgur.com/X2W92rD.png)
 
